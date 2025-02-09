@@ -1,4 +1,4 @@
-# django-jENKINS_Docker
+# django-JENKINS_Docker
 A simple todo app built with django
 ![Jenkins](https://github.com/falconcode16/django-todo-cicd/blob/develop/staticfiles/jenkins.png)
 ![Jenkins Build](https://github.com/falconcode16/django-todo-cicd/blob/develop/staticfiles/jenkinsbuild.png)
